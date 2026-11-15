@@ -1,0 +1,6 @@
+{
+  "name": "Karya Bengkel POS",
+  "description": "Aplikasi kasir bengkel, manajemen stok suku cadang, pencatatan riwayat perbaikan pelanggan otomatis, dan laporan transaksi harian real-time berbasis Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
